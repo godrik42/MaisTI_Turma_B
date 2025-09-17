@@ -2,6 +2,6 @@
 repositorio teste para aulas do mais ti - ufs
 
 
-# Adicição de um teste
+# Adição de um teste
 ## Head 2
 ### Head 3
