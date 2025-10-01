@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head> <!-- Contém os metadados da página.-->
+    <meta charset="UTF-8">
+    <title>Meu HTML</title> <!-- Título da pagína-->
+</head>
+
+<body> <!-- Contém tudo o que você vê no site-->
+    <h1> Meu primeiro formulário</h1>
+    <form method="get" action="index.html" target="_blank">
+        <fieldset> <!-- define um campo em volta do formulário - serve para agrupar elementos -->
+            <legend> Entrar no site </legend>
+            Login:<input name="login" type="text" value="usuário"><br>
+            Senha:<input name="senha" type="password" value="1234567"><br>
+            <input type="submit"> <input type="reset">
+            <br>
+            Função:
+            <input type="radio" name="funcao" value="aluno"> Aluno
+            <input type="radio" name="funcao" value="professor"> Professor
+            <input type="radio" name="funcao" value="outro"> Outro
+            <br>
+            Contato:
+            <input type="checkbox" name="contato" value="sms"> SMS
+            <input type="checkbox" name="contato" value="whats"> Whats
+            <input type="checkbox" name="contato" value="ligacao"> ligacao
+            <input type="checkbox" name="contato" value="nenhum"> Nenhum
+            <br>
+            Estado: <select name="estado" size="1">
+                <option value="rs"> RS </option>
+                <option value="sc"> SC </option>
+                <option value="ba" selected> BA </option>
+                <option value="sp"> SP </option>
+            </select><br>
+            <hr>
+            Mensagem: <br>
+            <textarea name="mensagem" rows="20" cols="20"> Busquem conhecimento</textarea> <br>
+            <br>
+            <input type="button" value="Não clique!" onclick="alert('falei para não clicar!')">
+    </form>
+
+    <br>
+    <hr>
+    <form>
+        Nome:<input name="login" type="text" required><br>
+        E-mail: <input type="email" name="email"> <br>
+        Cor favorita: <input type="color" name="corFavorita"> <br>
+        Aniversário: <input type="date" name="aniversario require" max="2018-10-15" min="1940-01-01" > <br>
+        Foto de perfil: <input type="file" name="foto"> <br>
+        Filhos: <input type="number" name="filhos" min="0" max="10" step="1" value="0" > <br>
+        Horário para contato: <input type="time" name="horario"> <br>
+        Página pessoal: <input type="url" name="sitePessoal"><br>
+        <input type="submit">
+    </form>
+
+
+
+</body>
+
+</html>
